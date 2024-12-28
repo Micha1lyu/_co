@@ -71,3 +71,6 @@
 ## 第八週習題 -- 第四章 第二題
 
 [fill](https://github.com/Micha1lyu/_co/blob/master/04/fill/Fill.asm)
+## 第九週習題 -- 第五章 CPU
+
+[CPU](https://github.com/Micha1lyu/_co/blob/master/05/CPU.hdl)
