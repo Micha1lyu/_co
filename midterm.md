@@ -74,3 +74,7 @@
 ## 第九週習題 -- 第五章 CPU
 
 [CPU](https://github.com/Micha1lyu/_co/blob/master/05/CPU.hdl)
+## 第十週習題 -- 第五章 後半部
+[Memory](https://github.com/Micha1lyu/_co/blob/master/05/Memory.hdl)
+
+[Computer](https://github.com/Micha1lyu/_co/blob/master/05/Computer.hdl)
